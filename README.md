@@ -8,4 +8,6 @@ To run the code:
 
 ```pip install opencv-python```
 
+```pip install pycaw```
+
 ```$ python VolumeHandControl.py```
