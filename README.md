@@ -2,6 +2,8 @@ This code controls the volume of your computer via pinching and expanding the th
 
 To run the code: 
 
+```pip install protobuf==3.20.*```
+
 ```pip install mediapipe```
 
 ```pip install numpy```
